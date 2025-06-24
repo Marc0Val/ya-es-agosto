@@ -38,7 +38,7 @@ import { CommonModule } from '@angular/common';
           <div class="nyan-container">
             <div class="rainbow-trail"></div>
             <img 
-              src="https://media.tenor.com/images/b2a8da5236dcee62b940ce5b6bf7c6ed/tenor.gif" 
+              src="https://img1.picmix.com/output/stamp/normal/3/2/3/1/1931323_79310.gif" 
               alt="Nyan Cat" 
               class="nyan-cat"
               (error)="onImageError($event)"
